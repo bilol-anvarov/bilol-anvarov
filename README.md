@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer</h3>
 <img src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='right'  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulazizbay&label=Profile%20views&color=0e75b6&style=flat" alt="abdulazizbay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilol-anvarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilol" /> </p>
 
 
 
