@@ -26,10 +26,8 @@
          
 <div display="flex">
   <p>
-![](https://github-readme-stats.vercel.app/api?username=hiro-sakurai&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hiro-sakurai&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-sakurai&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-anvarov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
+           <img src="https://camo.githubusercontent.com/d150f3b……6b75726…" alt data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&theme=radical&hide_border=false" style="max-width: 100%;">
+           <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-anvarov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 </div>
 
