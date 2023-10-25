@@ -4,7 +4,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 <h1>
 💫 About Me:
 </h1>
-<h3 color="#9745F5"> 
+<h3> 
 🔭 I’m currently working on
          <br>
 👯 I’m looking to collaborate on
