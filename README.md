@@ -4,7 +4,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 <h1>
 💫 About Me:
 </h1>
-<h3> 
+<h4> 
 🔭 I’m currently working on
          <br>
 👯 I’m looking to collaborate on
@@ -16,7 +16,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 💬 Ask me about
          <br>
 ⚡ Fun fact
-</h3>
+</h4>
 <p>
 <img  src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='left' style="border-radius: 20px" />
          <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=bilol-anvarov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple">
@@ -53,6 +53,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
            <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&&theme=midnight-purple" alt="bilol"/>
            <br>
   </p>
+         <br>
 </div>
 <br>
 <br>
