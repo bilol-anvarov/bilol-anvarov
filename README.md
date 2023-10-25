@@ -6,10 +6,15 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 </h1>
 <h3> 
 🔭 I’m currently working on
+         <br>
 👯 I’m looking to collaborate on
+         <br>
 🤝 I’m looking for help with
+         <br>
 🌱 I’m currently learning
+         <br>
 💬 Ask me about
+         <br>
 ⚡ Fun fact
 </h3>
 <p>
