@@ -1,6 +1,7 @@
-### Hi there, I'm <a href="https://portfolio-page-abdulloh.netlify.app" target="_blank">Abdulloh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hello" width="25px" height="25px">, I'm Bilol</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h1>
+### Hi everybudy, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+</h1>         
+<h3 align="center">A Web developer</h3>
 <img src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='right'  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilol-anvarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilol" /> </p>
