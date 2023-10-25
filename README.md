@@ -50,7 +50,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
   <p>
            <br>
            <img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-anvarov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>
-           <img align="left" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&&theme=midnight-purple" alt="bilol"/>
+           <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&&theme=midnight-purple" alt="bilol"/>
            <br>
   </p>
          <br>
