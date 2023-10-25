@@ -19,7 +19,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 </h3>
 <p>
 <img  src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='left' style="border-radius: 20px" />
-         <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=bilol-anvarov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple" style="max-width: 300px;">
+         <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api?username=bilol-anvarov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilol-anvarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilol" /> </p>
 
