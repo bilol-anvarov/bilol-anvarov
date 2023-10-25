@@ -32,7 +32,6 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
   <p>
            <br>
            <img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&" alt="bilol"/>
-           <br>
            <img width="400px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-anvarov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 </div>
