@@ -1,8 +1,21 @@
 <h1>
 Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
-
+<h1>
+💫 About Me:
+</h1>
+<h3> 
+🔭 I’m currently working on
+👯 I’m looking to collaborate on
+🤝 I’m looking for help with
+🌱 I’m currently learning
+💬 Ask me about
+⚡ Fun fact
+</h3>
+<p>
 <img src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='right'  />
+         <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=bilol-anvarov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple" style="max-width: 100%;">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilol-anvarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilol" /> </p>
 
 
@@ -30,7 +43,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 <div display="flex">
   <p>
            <br>
-           <img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&" alt="bilol"/>
+           <img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&&theme=tokyonight" alt="bilol"/>
            <img width="400px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-anvarov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 </div>
