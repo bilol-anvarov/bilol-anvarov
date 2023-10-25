@@ -56,5 +56,5 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 <br>
 <br>
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilol-anvarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilol" /> </p>
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=bilol-anvarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilol" /> </p>
 </div>
