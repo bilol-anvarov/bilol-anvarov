@@ -19,7 +19,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 </h4>
 <p>
 <img  src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='left' style="border-radius: 20px" />
-         <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=bilol-anvarov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple">
+         <img width="400px" height="300px" align="right" src="https://github-readme-stats.vercel.app/api?username=bilol-anvarov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple">
 </p>
 
 
@@ -49,8 +49,8 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 <div display="flex" style="width: 100%;">
   <p>
            <br>
-           <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-anvarov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>
-           <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&&theme=midnight-purple" alt="bilol"/>
+           <img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-anvarov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>
+           <img align="left" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&&theme=midnight-purple" alt="bilol"/>
            <br>
   </p>
          <br>
