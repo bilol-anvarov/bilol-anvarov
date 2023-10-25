@@ -4,7 +4,7 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 <h1>
 💫 About Me:
 </h1>
-<h3> 
+<h3 color="#9745F5"> 
 🔭 I’m currently working on
          <br>
 👯 I’m looking to collaborate on
@@ -46,11 +46,12 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 <br>
 
          
-<div display="flex">
+<div display="flex" style="width: 100%;">
   <p>
            <br>
            <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilol-anvarov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>
            <img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&&theme=midnight-purple" alt="bilol"/>
+           <br>
   </p>
 </div>
 <br>
