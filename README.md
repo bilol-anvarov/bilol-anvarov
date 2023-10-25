@@ -18,8 +18,8 @@ Hi everybody, I'm <a href="#" target="_blank">Bilol</a> <img src="https://media.
 ⚡ Fun fact
 </h3>
 <p>
-<img src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='right'  />
-         <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=bilol-anvarov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple" style="max-width: 100%;">
+<img src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='left'  />
+         <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=bilol-anvarov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple" style="max-width: 100%;">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilol-anvarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilol" /> </p>
 
